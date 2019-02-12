@@ -71,11 +71,3 @@ print('\n' + module_name + " setup complete!")
 # displays bar across console
 print('=' * console_width)
 
-
-
-
-import tile_puzzle_solver
-
-#tile_puzzle_solver.run_tests()
-tile_puzzle_solver.hash_test()
-print("setup END")
